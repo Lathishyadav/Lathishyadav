@@ -50,7 +50,7 @@ My work bridges **core software engineering** (Java, REST APIs, relational datab
 [https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white]
 [https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white]
 [https://img.shields.io/badge/REST_API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white]
-[https://img.shields.io/badge/Django_(Basic]-092E20?style=for-the-badge&logo=django&logoColor=white)
+[https://img.shields.io/badge/Django_%28Basic%29-092E20?style=for-the-badge&logo=django&logoColor=white]
 [https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white]
 
 ### Database Skills
