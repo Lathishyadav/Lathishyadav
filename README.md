@@ -11,7 +11,7 @@ Building scalable software systems, intelligent automation, RAG applications, an
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Java+Backend+Developer;Full+Stack+Developer;Building+RAG+%26+Agentic+Systems;Generative+AI+Enthusiast;MumbaiHacks+Finalist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Java+Backend+Developer;Full+Stack+Developer;Building+RAG+%26+Agentic+Systems;Generative+AI+Enthusiast;MumbaiHacks+Top 15 " />
 </p>
 
 <p align="center">
